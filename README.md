@@ -1,1 +1,1 @@
-# snake-3d
+# Snake 2D -> 3D
